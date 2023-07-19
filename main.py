@@ -223,4 +223,4 @@ async def reload(ctx, extension):
     await ctx.send(f"Terminez !")
 
 bot.add_cog(help.help(bot))
-bot.run("MTAwMjUzMTQ0NTYxODc4NjMyNA.GPgKNw.WL4piezNeK0oXjgxLjEcdDJMvQERy3JolygOmg")
+bot.run("Token")
